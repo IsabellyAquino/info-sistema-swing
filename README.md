@@ -12,12 +12,10 @@ Este é um sistema desenvolvido em Java utilizando a biblioteca Java Swing para 
 <br>
 
 <p align="center">
-  <img alt="preview tela" src=".github/preview.png" width="100%">
+  <img alt="preview tela" src="preview.png" height= "50%" width="50%">
 </p>
 
-<p align="center">
-  <img src=".github/preview2.png" width="100%">
-</p>
+
 
 ## 📋 Pré-requisitos
 
